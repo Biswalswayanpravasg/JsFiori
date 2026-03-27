@@ -5,7 +5,7 @@
 // null=standalone value
 // undefind=>value not assigned
 // symbols=>unique
-
+// use strict   new version of js
 let age = 18
 let name = "swayan";
 
